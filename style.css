@@ -1,0 +1,201 @@
+body {
+    background-color: #ffffff;
+}
+
+footer {
+    background-color: bisque;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h2,h3 {
+    font-family: "Comic Relief", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 3rem;
+    text-transform: uppercase;
+  }
+
+.border {
+    border: 1px solid black;   
+    margin-bottom: 50px;
+}
+  
+.palau {
+    width: 800px;
+    height: 500px;    
+    background-color: #4aadd6;
+    position: relative;
+}
+
+.palau > div {
+    width: 300px;
+    height: 300px;
+    background-color: #ffde00;
+    border-radius: 50%;
+    position: absolute;
+    left: 90px;
+    top:  100px;
+} 
+
+.japan {
+    width: 750px;
+    height: 500px;    
+    background-color: white;
+    position: relative;
+}
+
+.japan div {
+    width: 300px;
+    height: 300px;
+    background-color: #bc002d;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 225px;
+}
+
+.ukrain {
+    width: 750px;
+    height: 500px;
+    background-color: #005bbb;
+    position: relative;
+}
+
+.ukrain div {
+    width: 750px;
+    height: 250px;
+    background-color: #ffd500;
+    position: absolute;
+    top: 250px;
+}
+
+.latvia {
+    width: 1000px;
+    height: 500px;
+    background-color: #9e3039;
+    position: relative;
+}
+
+.latvia div {
+    width: 1000px;
+    height: 100px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 200px;
+}
+
+.nigeria {
+    width: 1000px;
+    height: 500px;
+    background-color: #008751;
+    position: relative;
+}
+
+.nigeria div {
+    width: 333.34px;
+    height: 500px;
+    background-color: #ffffff;
+    position: absolute;
+    left: 333.34px;
+}
+
+.peru {
+    width: 1000px;
+    height: 500px;
+    background-color: #d91023;
+    position: relative;
+}
+
+.peru div {
+    width: 333.34px;
+    height: 500px;
+    background-color: #ffffff;
+    position: absolute;
+    left: 333.34px;
+}
+
+.poland {
+    width: 800px;
+    height: 500px;
+    background-color: #ffffff;
+    position: relative;
+}
+
+.poland div {
+    width: 800px;
+    height: 250px;
+    background-color: #dc143c;
+    position: absolute;
+    top: 250px;
+}
+
+.monaco {
+    width: 625px;
+    height: 500px;
+    background-color: #ce1126;
+    position: relative;
+}
+
+.monaco div {
+    width: 625px;
+    height: 250px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 250px;
+}
+
+.indonesia {
+    width: 750px;
+    height: 500px;
+    background-color: #ce1126;
+    position: relative;
+}
+
+.indonesia div {
+    width: 750px;
+    height: 250px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 250px;
+}
+
+.australia {
+    width: 750px;
+    height: 500px;
+    background-color: #ed2939;
+    position: relative;
+}
+
+.australia div {
+    width: 750px;
+    height: 166.67px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 166.67px;
+}
+
+.bangladesh {
+    width: 833.34px;
+    height: 500px;
+    background-color: #006a4e;
+    position: relative;
+}
+
+.bangladesh div {
+    width: 300px;
+    height: 300px;
+    background-color: #f42a41;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 225px;
+}

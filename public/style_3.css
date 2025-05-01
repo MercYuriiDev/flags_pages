@@ -1,0 +1,53 @@
+body {
+    background-color: #ffffff;
+}
+
+footer {
+    background-color: bisque;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h2,h3 {
+    font-family: "Comic Relief", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 3rem;
+    text-transform: uppercase;
+  }
+
+.border {
+    border: 1px solid black;   
+    margin-bottom: 50px;
+}
+
+.bolivia {
+    width: 733.34px;
+    height: 500px;
+    background-color: #d52b1e;
+    position: relative;
+}
+
+.bolivia > div {
+    width: 733.34px;
+    height: 333.34px;
+    background-color: #f9e300;
+    position: absolute;
+    top: 166.67px;
+}
+
+.bolivia > div > div {
+    width: 733.34px;
+    height: 166.67px;
+    background-color: #007934;
+    position: relative;
+    top: 166.67px;
+}

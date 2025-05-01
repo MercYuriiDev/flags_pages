@@ -1,0 +1,55 @@
+body {
+    background-color: #ffffff;
+}
+
+footer {
+    background-color: bisque;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h2,h3 {
+    font-family: "Comic Relief", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 3rem;
+    text-transform: uppercase;
+  }
+
+.border {
+    border: 1px solid black;   
+    margin-bottom: 50px;
+}
+
+.finland {
+    width: 818.18px;
+    height: 500px;
+    background-color: #ffffff;
+    position:  relative;
+}
+
+.finland > div {
+    width: 136.36px;
+    height: 500px;
+    background-color: #003580;
+    position: absolute;
+    left: 227.27px;
+}
+
+.finland > div > div {
+    width: 818.18px;
+    height: 136.36px;
+    background-color: #003580;
+    position: relative;
+    top: 181.82px;
+    right: 227.27px;
+}
+
