@@ -32,15 +32,15 @@ A collection of national flags drawn **purely with HTML5 and CSS3**, without ima
 
 Each difficulty level has its own HTML and CSS files:
 
-public/
-
 ├── index.html — Level 1 (easy flags)
+
+├── style.css — styles for Level 1
+
+public/
 
 ├── index_2.html — Level 2 (medium flags)
 
 ├── index_3.html — Level 3 (hard flags)
-
-├── style.css — styles for Level 1
 
 ├── style_2.css — styles for Level 2
 
