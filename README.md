@@ -28,26 +28,6 @@ A collection of national flags drawn **purely with HTML5 and CSS3**, without ima
 
 ---
 
-## 📂 Project Structure
-
-Each difficulty level has its own HTML and CSS files:
-
-├── index.html — Level 1 (easy flags)
-
-├── style.css — styles for Level 1
-
-public/
-
-├── index_2.html — Level 2 (medium flags)
-
-├── index_3.html — Level 3 (hard flags)
-
-├── style_2.css — styles for Level 2
-
-└── style_3.css — styles for Level 3
-
----
-
 ## 🎯 Goal & Inspiration
 
 Reinforce fundamental front‐end skills by recreating flag designs from scratch.  
